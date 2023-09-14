@@ -1,0 +1,31 @@
+.home {
+  background-image: url("maldives.webp");
+  height: 100vh;
+  width: auto;
+  padding-bottom: 600px;
+  background-repeat: no-repeat;
+  background-size: 100;
+}
+
+.home p {
+  height: 150px;
+  width: 400px;
+}
+
+.navigation {
+  background: linear-gradient(#b65001, #fcbe22);
+  width: 100%;
+  z-index: 1;
+}
+
+.tours {
+  background: linear-gradient(#dd5e89, #f7bb97);
+}
+
+.contact {
+  background: linear-gradient(#dd5e89, #f7bb97);
+}
+
+.card {
+  flex: 1 0 auto;
+}
